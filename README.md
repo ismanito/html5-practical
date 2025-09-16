@@ -10,7 +10,7 @@ This project demonstrates modern HTML5 semantics, accessibility, and media embed
 - **extras.html** — Tables (caption/thead/tbody/tfoot), `<details>`, `<dialog open>`, `<progress>`, `<meter>`.
 
 ## Live Site
-[https://YOUR-USERNAME.github.io/html5-practical/](https://YOUR-USERNAME.github.io/html5-practical/)
+[https://YOUR-USERNAME.github.io/html5-practical/](https://ismanito.github.io/html5-practical/)
 
 ## Author
 Ismahan
